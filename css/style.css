@@ -20,3 +20,7 @@ img {
     margin-left: 30%;
     margin-right: 0%;
 }
+
+ol li {
+    text-align: left;
+}
