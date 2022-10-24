@@ -1,6 +1,14 @@
 * {
-    color: black;
-    background-color: salmon;
+    color: white;
+    background-color: black;
     font-family: sans-serif;
     text-align: center;
+    box-sizing: border-box;
+}
+
+img {
+    border: 10px solid white;
+    width: auto;
+    height: 700px;
+    
 }
