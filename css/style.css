@@ -1,21 +1,6 @@
-body #h,
-h1,
-h3,
-ul li {
+* {
     color: black;
     background-color: salmon;
     font-family: sans-serif;
     text-align: center;
-}
-
-ul li {
-    font-size: 20px;
-}
-
-body img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 700px;
-    background-color: gray;
 }
