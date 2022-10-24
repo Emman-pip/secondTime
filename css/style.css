@@ -17,10 +17,18 @@ img {
     width:300px;
     padding:10px;
     background-color: gray;
-    margin-left: 30%;
-    margin-right: 0%;
+    margin: auto;
+    border: 5px solid gray
 }
 
 ol li {
     text-align: left;
+}
+
+
+
+ol, 
+ul {
+    margin: auto;
+    width: 700px
 }
