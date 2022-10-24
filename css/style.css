@@ -12,3 +12,11 @@ img {
     height: 700px;
     
 }
+
+.list1 {
+    width:300px;
+    padding:10px;
+    background-color: gray;
+    margin-left: 30%;
+    margin-right: 0%;
+}
